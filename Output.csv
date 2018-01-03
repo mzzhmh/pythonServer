@@ -1,0 +1,5 @@
+seqNum,OrdID,CustID,OrdStat,firtName,lastName,Address,Postcode,Email,ProductList
+1,171024-054956-3428,1,1,Tick,Seed,55 falcon st crows nest,2064,mark@crecom.com.au,TGGQUOPX85
+2,171024-061427-1507,2,1,Mark,Mi,33 falcon st crows nest,2064,mzzhmh@gmail.com,TGGQUOPX85
+3,171024-063423-4151,2,1,Mark,Mi,33 falcon st crows nest,2064,mzzhmh@gmail.com,TGGQUOPX85
+4,171025-021044-1994,1,1,Tick,Seed,55 falcon st crows nest,2064,mark@crecom.com.au,TESA31|p1p1p1|c2p2
