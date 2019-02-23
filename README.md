@@ -4,5 +4,5 @@ pythonServ.py is a python socket server listening on 9999 port and it will recei
 
 retriveOrder.py is a sample program that could retrieve the order details from the cubecart mysql database and output the .csv formated order data.
 
-Mark Miao1 from master
+Mark Miao1 from mastera
 
