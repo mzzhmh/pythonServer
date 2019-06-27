@@ -5,7 +5,8 @@ This is used for remote frontend web session to execute the customized backend s
 This is a quick rollout so there is no Exception handling at the moment. Will add the Exception handling later.
 
 
-
+<br />
+<br />
 
 Examples (receive and run the 'ls' and 'ifconfig' from the remote machine; run it locally then send the output back):
 
@@ -23,7 +24,8 @@ Examples (receive and run the 'ls' and 'ifconfig' from the remote machine; run i
 4.in the remote machine, you can write your own programs to connect to the socket port 9999 to send/recv cmds and outputs. Or you can use 'telnet 192.168.1.106 9999' to connect and issue 'ls' command for testing.
 
 
-
+<br />
+<br />
 
 
 
@@ -123,7 +125,10 @@ Connection closed by foreign host.
 
 
 -------------------------------------------------------------------------------------------------
-
+<br />
+<br />
+<br />
+<br />
 
 
 
