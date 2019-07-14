@@ -56,7 +56,7 @@ port = int(sys.argv[2])
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.setsockopt(socket.SOL_SOCKET,socket.SO_REUSEADDR,1)
 s.bind((host, port))
-s.listen(64)
+s.listen(32)
 print("Server listening on %s %d" %(host, port))
 while(1):
     conn, addr = s.accept()
